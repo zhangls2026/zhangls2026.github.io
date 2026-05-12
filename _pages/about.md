@@ -29,14 +29,14 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 # <i class="fas fa-rss"></i> News
 
 <ul class="news-box">
-  <li>[2024]: Linshuai Zhang was recognized as an Outstanding Member of the Sichuan Artificial Intelligence Society.</li>
-  <li>[2024]: His supervised undergraduate team won one Gold Award in the Sichuan Provincial "Challenge Cup" College Student Entrepreneurship Plan Competition.</li>
-  <li>[2022]: He received the Second Prize of the Achievement Award of the China Invention and Entrepreneurship Award.</li>
-  <li>[2022]: He won the First Prize in the "Green, Low-Carbon and New Materials" preliminary contest of the Sichuan SME Innovation and Entrepreneurship Competition.</li>
-  <li>[2021]: He received the First Prize and Third Prize of university-level higher education teaching achievement awards.</li>
-  <li>[2020]: He was selected as a high-level overseas returnee talent of Sichuan Province.</li>
-  <li>[2018]: He received a Best Conference Paper Nomination Award at IEEE ICIA 2018.</li>
-  <li>[2017]: He received the President's Commendation Award from Kagawa University, Japan.</li>
+  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Linshuai Zhang was recognized as an Outstanding Member of the Sichuan Artificial Intelligence Society.</li>
+  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> His supervised undergraduate team won one Gold Award in the Sichuan Provincial "Challenge Cup" College Student Entrepreneurship Plan Competition.</li>
+  <li><span class="news-date">[2022]</span>: <span class="news-mark">🎉</span> He received the Second Prize of the Achievement Award of the China Invention and Entrepreneurship Award.</li>
+  <li><span class="news-date">[2022]</span>: <span class="news-mark">🎉</span> He won the First Prize in the "Green, Low-Carbon and New Materials" preliminary contest of the Sichuan SME Innovation and Entrepreneurship Competition.</li>
+  <li><span class="news-date">[2021]</span>: <span class="news-mark">🎉</span> He received the First Prize and Third Prize of university-level higher education teaching achievement awards.</li>
+  <li><span class="news-date">[2020]</span>: <span class="news-mark">🎉</span> He was selected as a high-level overseas returnee talent of Sichuan Province.</li>
+  <li><span class="news-date">[2018]</span>: <span class="news-mark">🎉</span> He received a Best Conference Paper Nomination Award at IEEE ICIA 2018.</li>
+  <li><span class="news-date">[2017]</span>: <span class="news-mark">🎉</span> He received the President's Commendation Award from Kagawa University, Japan.</li>
 </ul>
 
 <span class="anchor" id="research"></span>
