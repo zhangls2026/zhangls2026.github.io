@@ -53,11 +53,16 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 # <i class="fas fa-microscope"></i> Research and Teaching
 
+<div class="text-block" markdown="1">
 Dr. Zhang has led or participated in several vertical research projects, including the National Natural Science Foundation of China Youth Program, key research and development programs of the Sichuan Provincial Department of Science and Technology, international science and technology cooperation programs of Sichuan Province, the Sichuan Natural Science Foundation Youth Program, key scientific and technological research projects of the Sichuan Administration of Traditional Chinese Medicine, key R&D support programs of Chengdu Science and Technology Bureau, and open funds from engineering laboratories for intelligent perception and control of unmanned systems.
 
 He has published more than 40 papers in high-level journals and conferences, including *IEEE/ASME Transactions on Mechatronics*, *IEEE Transactions on Robotics*, *IEEE Sensors Journal*, *The International Journal of Advanced Manufacturing Technology*, *Machine Tool & Hydraulics*, IEEE ICMA, IEEE ROBIO, and IEEE ICIA. He has been granted 10 Chinese patents, including 4 invention patents and 1 PCT patent.
+</div>
 
-He has served as the chief editor of one planned textbook and a contributing editor of one textbook. He teaches undergraduate courses including *Digital Electronic Technology*, *Medical Sensing and Detection Technology*, *Applications of Intelligent Medical Engineering*, and *Medical Robotics*.
+<ul class="compact-list">
+  <li>Chief editor of one planned textbook and contributing editor of one textbook.</li>
+  <li>Undergraduate courses: <em>Digital Electronic Technology</em>, <em>Medical Sensing and Detection Technology</em>, <em>Applications of Intelligent Medical Engineering</em>, and <em>Medical Robotics</em>.</li>
+</ul>
 
 <span class="anchor" id="awards"></span>
 
@@ -79,9 +84,19 @@ He has served as the chief editor of one planned textbook and a contributing edi
 
 # <i class="fas fa-user-graduate"></i> Student Supervision
 
-As a supervisor, Dr. Zhang has guided undergraduate students to win one Gold Award in the 2024 Sichuan Provincial "Challenge Cup" College Student Entrepreneurship Plan Competition, one Silver Award in the 8th China International "Internet+" College Student Innovation and Entrepreneurship Competition in Sichuan Province, one Bronze Award in the 9th China International "Internet+" College Student Innovation and Entrepreneurship Competition in Sichuan Province, one First Prize in the 5th China University Intelligent Robot Creative Competition, one First Prize and one Second Prize in the 4th Sichuan College Student Biomedical Engineering Innovation Design Competition, three Second Prizes in the 19th Sichuan College Student Computer Innovation Works Competition, one Third Prize in the 6th China University Intelligent Robot Creative Competition, and one Third Prize in the 8th China Biomedical Engineering Competition.
+<div class="text-block" markdown="1">
+As a supervisor, Dr. Zhang has guided undergraduate students to win multiple awards in innovation, entrepreneurship, robotics, biomedical engineering, and computer innovation competitions.
+</div>
 
-He has supervised 3 national-level undergraduate innovation and entrepreneurship projects and 1 provincial or ministerial-level undergraduate innovation and entrepreneurship project.
+<ul class="compact-list">
+  <li>One Gold Award, 2024 Sichuan Provincial "Challenge Cup" College Student Entrepreneurship Plan Competition.</li>
+  <li>One Silver Award and one Bronze Award, China International "Internet+" College Student Innovation and Entrepreneurship Competition in Sichuan Province.</li>
+  <li>One First Prize and one Third Prize, China University Intelligent Robot Creative Competition.</li>
+  <li>One First Prize and one Second Prize, Sichuan College Student Biomedical Engineering Innovation Design Competition.</li>
+  <li>Three Second Prizes, Sichuan College Student Computer Innovation Works Competition.</li>
+  <li>One Third Prize, China Biomedical Engineering Competition.</li>
+  <li>Supervised 3 national-level and 1 provincial or ministerial-level undergraduate innovation and entrepreneurship projects.</li>
+</ul>
 
 <span class="anchor" id="services"></span>
 
