@@ -26,7 +26,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 <span class="anchor" id="news"></span>
 
-# <i class="fas fa-rss"></i> 动态
+# <i class="fas fa-rss"></i> News
 
 <ul class="news-box">
   <li>[2024]: Linshuai Zhang was recognized as an Outstanding Member of the Sichuan Artificial Intelligence Society.</li>
@@ -99,7 +99,7 @@ He has supervised 3 national-level undergraduate innovation and entrepreneurship
 - Peer Review Expert, National Natural Science Foundation of China
 - Session Chair, IEEE ICMA
 
-### <i class="fas fa-clipboard-check"></i> Reviewer Services
+### <i class="fas fa-clipboard-check heading-icon"></i> Reviewer Services
 
 - IEEE Transactions on Robotics
 - IEEE Transactions on Medical Robotics and Bionics

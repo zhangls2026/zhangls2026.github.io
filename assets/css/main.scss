@@ -158,6 +158,16 @@ h1:before, .anchor:before {
     font-size: .95em;
 }
 
+.page__content .heading-icon {
+    display: inline-block;
+    width: 1.55rem;
+    min-width: 1.55rem;
+    color: #1f4e79;
+    font-size: 1.45rem;
+    line-height: 1;
+    vertical-align: -0.08rem;
+}
+
 .fa-border {
     border-color: #d9e1ea;
     color: #8aa0b8;
