@@ -31,24 +31,24 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 # <i class="fas fa-rss"></i> News
 
 <ul class="news-box">
-  <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> Dr. Zhang led a new technology-transfer project on intelligent moxibustion physiotherapy robots for industrialization.</li>
-  <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> A journal paper on a magnetorheological-fluid haptic interface for endovascular catheterization was published in <em>Sensors</em>.</li>
-  <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> A journal paper on an angle-sensor-integrated upper-limb exoskeleton system was published in <em>Sensors</em>.</li>
-  <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> A robotic system with haptic feedback for precision cardiac ablation was published in <em>Scientific Reports</em>.</li>
+  <li><span class="news-date">[2025.12]</span>: <span class="news-mark">🎉</span> The paper on an innovative MR-fluid haptic interface for endovascular catheterization was published in <em>Sensors</em>.</li>
+  <li><span class="news-date">[2025.08]</span>: <span class="news-mark">🎉</span> Dr. Zhang started a technology-transfer project on intelligent moxibustion physiotherapy robots for industrialization.</li>
+  <li><span class="news-date">[2025.07]</span>: <span class="news-mark">🎉</span> The paper on an angle-sensor-integrated upper-limb exoskeleton system was published in <em>Sensors</em>.</li>
+  <li><span class="news-date">[2025.03]</span>: <span class="news-mark">🎉</span> The paper on a haptic-feedback robotic system for precision cardiac ablation was published in <em>Scientific Reports</em>.</li>
   <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> Two IEEE ICMA papers were published on catheter force feedback and precision acupuncture robot force/torque sensing.</li>
-  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> An IEEE Access paper on acupoint resistance and temperature sensing was published.</li>
+  <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> A flexible acupoint resistance and temperature sensor was published in <em>IEEE Access</em>.</li>
+  <li><span class="news-date">[2024.07]</span>: <span class="news-mark">🎉</span> The invention patent on pressure control in soft actuators was granted.</li>
+  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang was selected as a Chengdu D-class talent and a Jinniu District D1-class outstanding talent.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang was recognized as an Outstanding Member of the Sichuan Artificial Intelligence Society.</li>
-  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang was selected as a Chengdu D-class talent and a Jinniu District D1-class talent.</li>
-  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang participated as a key researcher in projects on intelligent acupuncture robots and deep-learning-based acupoint localization.</li>
-  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Multiple patents were filed or granted for soft actuators, cardiac ablation robot subsystems, acupuncture robots, and force sensors.</li>
-  <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> A paper on spherical underwater robot cooperation was published in <em>IEEE/ASME Transactions on Mechatronics</em>.</li>
+  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Several patents were filed or granted for cardiac ablation robots, acupuncture robots, force sensors, and soft actuators.</li>
+  <li><span class="news-date">[2023.09]</span>: <span class="news-mark">🎉</span> The invention patent on a sensing needle based on micro-force sensing and biological principles was granted.</li>
+  <li><span class="news-date">[2023.08]</span>: <span class="news-mark">🎉</span> The invention patent on a master-side haptic interaction device for vascular interventional robots was granted.</li>
+  <li><span class="news-date">[2023.06]</span>: <span class="news-mark">🎉</span> The invention patent on UWB/IMU/GNSS fusion localization for unmanned equipment was granted.</li>
   <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> Dr. Zhang led a National Natural Science Foundation of China Youth Program on distal ablation catheter force control.</li>
-  <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> Dr. Zhang led a Sichuan key R&D project on compliant interaction control for interventional robots in dynamic cardiac chambers.</li>
+  <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> The paper on spherical underwater robot cooperation was published in <em>IEEE/ASME Transactions on Mechatronics</em>.</li>
   <li><span class="news-date">[2022]</span>: <span class="news-mark">🎉</span> Dr. Zhang won the Second Prize of the China Invention and Entrepreneurship Award Achievement Award.</li>
   <li><span class="news-date">[2022]</span>: <span class="news-mark">🎉</span> Dr. Zhang led projects on unmanned agricultural machinery localization and multi-sensor fusion localization for autonomous unmanned systems.</li>
-  <li><span class="news-date">[2021]</span>: <span class="news-mark">🎉</span> Dr. Zhang received university-level higher education teaching achievement awards and started a research project on haptic-feedback-based safety warning for vascular interventional surgical robots.</li>
-  <li><span class="news-date">[2020]</span>: <span class="news-mark">🎉</span> Dr. Zhang was selected as a high-level overseas returnee talent of Sichuan Province.</li>
-  <li><span class="news-date">[2018]</span>: <span class="news-mark">🎉</span> Dr. Zhang received the Best Conference Paper Nomination Award at IEEE ICIA 2018.</li>
+  <li><span class="news-date">[2021]</span>: <span class="news-mark">🎉</span> Dr. Zhang received university-level higher education teaching achievement awards and started a project on haptic-feedback-based safety warning for vascular interventional surgical robots.</li>
 </ul>
 
 <span class="anchor" id="research"></span>
@@ -156,27 +156,27 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 # <i class="fas fa-certificate"></i> Patents and Software Copyrights
 
 <ol class="publication-list">
-  <li>Interactive software for a cardiac ablation catheter robot, software copyright, 2024.</li>
-  <li>Control method for chamber pressures in soft actuators, Chinese invention patent, granted, 2024.</li>
-  <li>Upper-limb exoskeleton robotic arm capable of autonomous rehabilitation training, utility model patent, pending, 2024.</li>
-  <li>Three-dimensional force measurement sensor for minimally invasive surgery, utility model patent, pending, 2024.</li>
-  <li>Auxiliary subsystem for the slave side of a vascular interventional robot for cardiac ablation surgery, utility model patent, granted, 2024.</li>
-  <li>Adaptive ablation control method for the slave-side auxiliary subsystem of vascular interventional robots, invention patent, pending, 2024.</li>
-  <li>Application method of a novel intelligent acupuncture robot, invention patent, pending, 2024.</li>
-  <li>Acupuncture robot, utility model patent, pending, 2024.</li>
-  <li>Soft actuator and distal ablation catheter using the soft actuator, utility model patent, granted, 2023.</li>
-  <li>Sensor needle based on micro-force sensing technology and biological principles, Chinese invention patent, granted, 2023.</li>
-  <li>Master-side haptic interaction device for vascular interventional surgical robots, Chinese invention patent, granted, 2023.</li>
-  <li>Multi-scenario seamless localization method for unmanned equipment based on UWB, IMU, and GNSS fusion, Chinese invention patent, granted, 2023.</li>
-  <li>Wearable upper-limb exoskeleton robot, utility model patent, granted, 2023.</li>
-  <li>Controllable current source module for a haptic feedback device of interventional robots, utility model patent, granted, 2023.</li>
-  <li>Lower-limb mechanical structure of a biped robot designed using single-axis servos, utility model patent, granted, 2021.</li>
-  <li>Electronic lock, utility model patent, granted, 2022.</li>
-  <li>Master-side haptic feedback device for master-slave vascular interventional surgical robots, utility model patent, granted, 2022.</li>
-  <li>Intelligent robotic gripper, utility model patent, granted, 2022.</li>
-  <li>Electronic lock and control method thereof, invention patent, granted, 2021.</li>
-  <li>Robotic gripper, utility model patent, granted, 2021.</li>
-  <li>Method for localization of autonomous mobile systems based on dynamic loading of point cloud maps, Luxembourg patent, 2022.</li>
+  <li><strong>Linshuai Zhang</strong>, Jinshan Zuo, Tao Jiang, Shuoxin Gu, Lin Xu, Yujie Zhang, and Yang Yang. <span class="paper-title">Interactive software for a cardiac ablation catheter robot V1.0</span>. China, Software Copyright No. 2024SR1744367, registered Nov. 11, 2024.</li>
+  <li><strong>Linshuai Zhang</strong>, Tao Jiang, Shuoxin Gu, Lin Xu, and Yujie Zhang. <span class="paper-title">Control method for chamber pressures in soft actuators</span>. China, Invention Patent No. ZL202311711911.0, granted Jul. 30, 2024.</li>
+  <li><strong>Linshuai Zhang</strong>, Yong Wang, Xin Tian, Honglin Li, Yaqi Fan, Tao Jiang, and Lin Xu. <span class="paper-title">Upper-limb exoskeleton robotic arm capable of autonomous rehabilitation training</span>. China, Utility Model Patent Application No. ZL202421113377.3, filed May 21, 2024.</li>
+  <li><strong>Linshuai Zhang</strong>, Jie Jiang, Shuoxin Gu, and Shiqi Jiang. <span class="paper-title">Three-dimensional force measurement sensor for minimally invasive surgery</span>. China, Utility Model Patent Application No. ZL202421030855.4, filed May 13, 2024.</li>
+  <li><strong>Linshuai Zhang</strong>, Jinshan Zuo, Xinlin Hao, Yang Yang, Xinyu Zhang, Shuoxin Gu, Tao Jiang, Lin Xu, and Yujie Zhang. <span class="paper-title">Slave-side auxiliary subsystem for a vascular interventional robot for cardiac ablation surgery</span>. China, Utility Model Patent No. ZL202420711289.7, granted Apr. 08, 2024.</li>
+  <li><strong>Linshuai Zhang</strong>, Shuoxin Gu, Tao Jiang, Zhihang Yuan, Yuyang Luo, Lin Xu, and Yujie Zhang. <span class="paper-title">Adaptive ablation control method for the slave-side auxiliary subsystem of a vascular interventional robot</span>. China, Invention Patent Application No. 202410415482.0, filed Apr. 08, 2024.</li>
+  <li><strong>Linshuai Zhang</strong>, Tao Jiang, Lin Xu, Yujie Zhang, Sha Yang, and Zheng Yu. <span class="paper-title">Application method of a novel intelligent acupuncture robot</span>. China, Invention Patent Application No. 202410846969.4, filed Jun. 27, 2024.</li>
+  <li>Tao Jiang, <strong>Linshuai Zhang</strong>, Lin Xu, Yujie Zhang, Sha Yang, and Zheng Yu. <span class="paper-title">Acupuncture robot</span>. China, Utility Model Patent Application No. 202420484721.3, filed Mar. 12, 2024.</li>
+  <li><strong>Linshuai Zhang</strong>, Tao Jiang, Shuoxin Gu, Lin Xu, and Yujie Zhang. <span class="paper-title">Soft actuator and distal ablation catheter using the soft actuator</span>. China, Utility Model Patent No. ZL202323407598.X, granted Dec. 13, 2023.</li>
+  <li><strong>Linshuai Zhang</strong>, Zhihang Yuan, Tao Jiang, Shuoxin Gu, Lin Xu, Yujie Zhang, Peng Zeng, Ji Luo, Lu Cao, and Yaqin Fu. <span class="paper-title">Sensor needle based on micro-force sensing technology and biological principles</span>. China, Invention Patent No. ZL202310905337.6, granted Sep. 02, 2023.</li>
+  <li><strong>Linshuai Zhang</strong>, Chuan Yu, Tao Jiang, Shuoxin Gu, Zihao Ning, and Yanxia Li. <span class="paper-title">Master-side haptic interaction device for a vascular interventional surgical robot</span>. China, Invention Patent No. ZL202111519337.X, granted Aug. 24, 2023.</li>
+  <li><strong>Linshuai Zhang</strong>, Qian Wang, Tao Jiang, Shuoxin Gu, Sidong Wu, and Jiajia Liu. <span class="paper-title">Multi-scenario seamless localization method for unmanned equipment based on UWB, IMU, and GNSS fusion</span>. China, Invention Patent No. ZL202310387871.2, granted Jun. 16, 2023.</li>
+  <li><strong>Linshuai Zhang</strong>, Shuoxin Gu, Jin Xiao, Biao Huang, Yuke Wang, and Yongju He. <span class="paper-title">Wearable upper-limb exoskeleton robot</span>. China, Utility Model Patent No. ZL202223081283.6, granted Apr. 11, 2023.</li>
+  <li><strong>Linshuai Zhang</strong>, Shuoxin Gu, Jingjing Fan, Wenshan Tang, Tiaotiao Lei, and Weidong Xu. <span class="paper-title">Controllable current source module for a haptic feedback device of interventional robots</span>. China, Utility Model Patent No. ZL202223004574.5, granted Mar. 10, 2023.</li>
+  <li><strong>Linshuai Zhang</strong>, Chuan Yu, Shuoxin Gu, Jiajia Liu, and Tao Jiang. <span class="paper-title">Lower-limb mechanical structure of a biped robot designed using single-axis servos</span>. China, Utility Model Patent No. ZL202121023874.0, granted Nov. 09, 2021.</li>
+  <li><strong>Linshuai Zhang</strong>, Haolin Li, Shiqi Jiang, Shuoxin Gu, Xueyuan Zhang, Mao Ye, Dibo Xiao, Tingting Wang, Lin Wang, Jiajia Yan, Yuxin Wang, Yicheng Li, and Fei Li. <span class="paper-title">Electronic lock</span>. China, Utility Model Patent No. ZL202121927830.0, granted Feb. 08, 2022.</li>
+  <li><strong>Linshuai Zhang</strong>, Chuan Yu, Tao Jiang, Shuoxin Gu, Yanxia Li, and Yu Feng. <span class="paper-title">Master-side haptic feedback device for a master-slave vascular interventional surgical robot</span>. China, Utility Model Patent No. ZL202121734466.6, granted Jan. 20, 2022.</li>
+  <li><strong>Linshuai Zhang</strong>, Shiqi Jiang, Haolin Li, Shuoxin Gu, Xueyuan Zhang, Mao Ye, Dibo Xiao, Tingting Wang, Lin Wang, Jiajia Yan, Yuxin Wang, Yicheng Li, and Fei Li. <span class="paper-title">Intelligent robotic gripper</span>. China, Utility Model Patent No. ZL202121927884.7, granted Feb. 08, 2022.</li>
+  <li>Shiqi Jiang, <strong>Linshuai Zhang</strong>, Haolin Li, Shuoxin Gu, Xueyuan Zhang, Mao Ye, Dibo Xiao, Tingting Wang, Lin Wang, Jiajia Yan, Yuxin Wang, Yicheng Li, and Fei Li. <span class="paper-title">Electronic lock and control method thereof</span>. China, Invention Patent No. ZL202110944126.4, granted Oct. 29, 2021.</li>
+  <li>Shiqi Jiang, <strong>Linshuai Zhang</strong>, Haolin Li, Yicheng Li, Shuoxin Gu, Xueyuan Zhang, Mao Ye, Dibo Xiao, Tingting Wang, Lin Wang, Jiajia Yan, Yuxin Wang, and Fei Li. <span class="paper-title">Robotic gripper</span>. China, Utility Model Patent No. ZL202121927782.5, granted Dec. 03, 2021.</li>
+  <li>Tao Jiang, Yanling Zou, Mingxi Cai, Lin Xu, <strong>Linshuai Zhang</strong>, and Chen Li. <span class="paper-title">Method for localization of autonomous mobile systems based on dynamic loading of point cloud maps</span>. Luxembourg, Patent No. LU502363, granted Dec. 13, 2022.</li>
 </ol>
 
 <span class="anchor" id="awards"></span>
