@@ -23,7 +23,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
   <li><i class="fas fa-map-marker-alt"></i> Chengdu, Sichuan, China</li>
   <li><i class="fas fa-envelope"></i> zhanglinshuai@cdutcm.edu.cn</li>
   <li><i class="fas fa-phone"></i> 18086848801</li>
-  <li><i class="fas fa-file-alt"></i> 40+ publications, 20+ patents/software copyrights, and multiple funded projects</li>
+  <li><i class="fas fa-file-alt"></i> 60+ publications, 20+ patents/software copyrights, and multiple funded projects</li>
 </ul>
 
 <span class="anchor" id="news"></span>
