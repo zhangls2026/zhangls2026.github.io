@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "张林帅"
-description              : "成都中医药大学副教授"
+description              : "医学机器人 | 智能传感与交互控制"
 repository               : "zhangls2026/zhangls2026.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "张林帅"
   avatar           : "images/863E8FC671D028F3A66352E23F85293E.jpg"
-  bio              : "成都中医药大学副教授"
+  bio              : "副教授 / 硕士生导师"
   location         : "四川 成都"
-  employer         : #"Hefei General Machinery Research Institute"
+  employer         : "成都中医药大学"
   pubmed           : 
   googlescholar    : 
   email            : 
