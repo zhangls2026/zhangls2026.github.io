@@ -9,14 +9,26 @@ main:
   - title: "Research"
     url: "/#research"
 
-  - title: "Research & Teaching"
+  - title: "Projects"
     url: "/#projects"
+
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Patents"
+    url: "/#patents"
 
   - title: "Awards"
     url: "/#awards"
 
-  - title: "Students"
-    url: "/#students"
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Experience"
+    url: "/#experience"
+
+  - title: "Teaching"
+    url: "/#teaching"
 
   - title: "Services"
     url: "/#services"

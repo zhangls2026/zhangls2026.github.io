@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "张林帅"
-description              : "医学机器人 | 智能传感与交互控制"
+title                    : "Linshuai Zhang"
+description              : "Medical Robotics | Haptics | Intelligent Sensing and Control"
 repository               : "zhangls2026/zhangls2026.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "张林帅"
+  name             : "Linshuai Zhang"
   avatar           : "images/863E8FC671D028F3A66352E23F85293E.jpg"
-  bio              : "副教授 / 硕士生导师"
-  location         : "四川 成都"
-  employer         : "成都中医药大学"
+  bio              : "Associate Professor / Master's Supervisor"
+  location         : "Chengdu, China"
+  employer         : "Chengdu University of Traditional Chinese Medicine"
   pubmed           : 
   googlescholar    : 
   email            : "zhanglinshuai@cdutcm.edu.cn"

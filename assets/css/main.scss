@@ -132,6 +132,14 @@ h1:before, .anchor:before {
     }
 }
 
+.cv-actions {
+    margin: .85rem 0 1.25rem;
+
+    .btn i {
+        margin-right: .25rem;
+    }
+}
+
 .text-block {
     text-align: justify;
     line-height: 1.75;
@@ -148,6 +156,20 @@ h1:before, .anchor:before {
 
     li {
         margin-bottom: .35rem;
+    }
+}
+
+.publication-list {
+    line-height: 1.55;
+    padding-left: 1.35rem;
+
+    li {
+        margin-bottom: .65rem;
+        padding-left: .15rem;
+    }
+
+    em {
+        color: #33485f;
     }
 }
 
