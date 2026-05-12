@@ -3,6 +3,9 @@ main:
   - title: "个人简介"
     url: "/#about-me"
 
+  - title: "News"
+    url: "/#news"
+
   - title: "研究方向"
     url: "/#research"
 
