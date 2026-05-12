@@ -82,24 +82,39 @@
   display: table-cell;
   vertical-align: top;
   width: 75px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  height: 75px;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 175px;
+    height: 175px;
   }
 
   img {
-    max-width: 175px;
+    width: 75px;
+    height: 75px;
+    max-width: 75px;
     min-width: 75px;
+    object-fit: cover;
     border-radius: 50%;
 
     @include breakpoint($large) {
+      width: 175px;
+      height: 175px;
+      max-width: 175px;
+      min-width: 175px;
       padding: 5px;
       border: 1px solid $border-color;
     }
+  }
+}
+
+div.author__avatar {
+  overflow: hidden;
+  border-radius: 50%;
+
+  @include breakpoint($large) {
+    overflow: visible;
   }
 }
 
