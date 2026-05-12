@@ -26,7 +26,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 <span class="anchor" id="news"></span>
 
-# <i class="fas fa-rss"></i> News
+# <i class="fas fa-rss"></i> 动态
 
 <ul class="news-box">
   <li>[2024]: Linshuai Zhang was recognized as an Outstanding Member of the Sichuan Artificial Intelligence Society.</li>
