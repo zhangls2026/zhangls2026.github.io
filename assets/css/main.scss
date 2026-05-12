@@ -168,10 +168,18 @@ h1:before, .anchor:before {
 .paper-title {
     color: #1f4e79;
     font-weight: 600;
-    text-decoration-line: underline;
-    text-decoration-thickness: 1px;
-    text-underline-offset: .18em;
-    text-decoration-color: rgba(31, 78, 121, .45);
+    border-bottom: 2px solid #2f7dd3;
+    padding-bottom: .03em;
+    text-decoration: none;
+}
+
+.paper-title:hover {
+    color: #0b3674;
+    border-bottom-color: #0b3674;
+}
+
+.page__content a {
+    text-decoration-color: #2f7dd3;
 }
 
 .news-box {
