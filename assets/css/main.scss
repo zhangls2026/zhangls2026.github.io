@@ -165,6 +165,15 @@ h1:before, .anchor:before {
     }
 }
 
+.paper-title {
+    color: #1f4e79;
+    font-weight: 600;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .18em;
+    text-decoration-color: rgba(31, 78, 121, .45);
+}
+
 .news-box {
     width: auto;
     height: 180px;
