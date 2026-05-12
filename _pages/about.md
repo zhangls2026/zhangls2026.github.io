@@ -26,10 +26,6 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
   <li><i class="fas fa-file-alt"></i> 40+ publications, 20+ patents/software copyrights, and multiple funded projects</li>
 </ul>
 
-<p class="cv-actions">
-  <a class="btn btn--primary" href="/files/linshuai-zhang-cv.pdf"><i class="fas fa-file-pdf"></i> Download CV</a>
-</p>
-
 <span class="anchor" id="news"></span>
 
 # <i class="fas fa-rss"></i> News
