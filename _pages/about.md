@@ -238,22 +238,54 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 # <i class="fas fa-chalkboard-teacher"></i> Teaching and Student Mentoring
 
-### Teaching Projects and Textbooks
+### Teaching Reform Projects
 
 <ul class="compact-list">
-  <li>Innovative experimental project construction for <em>Medical Robotics</em> oriented toward outstanding innovative talent cultivation in the context of new medicine, university-level key teaching reform project, PI, 2023.</li>
-  <li>Co-editor, <em>Embedded System Development and Practice: Based on STM32F10x Series</em>, 2nd edition, Beihang University Press, 2019.</li>
-  <li>Editorial board member, <em>Fundamentals of Medical Electronics</em>, Nanjing University Press, 2024.</li>
-  <li>Teaching research paper on blended teaching methods for Omron PLC courses, 2021.</li>
+  <li><strong>Innovative experimental project construction for <em>Medical Robotics</em> oriented toward outstanding innovative talent cultivation in the context of new medicine</strong>, Chengdu University of Traditional Chinese Medicine teaching reform project, university-level key project, PI, 2023.</li>
+  <li><strong>Construction of digital-twin-based experimental projects for motion control courses</strong>, undergraduate education teaching research and reform project / virtual simulation first-class experimental teaching course construction project, participant, 2021.</li>
+  <li><strong>Construction and implementation of automation practice course systems in the context of new engineering education</strong>, undergraduate education teaching research and reform project / practical teaching reform project, participant, 2021.</li>
+  <li><strong>Regional collaborative and multidisciplinary artificial intelligence virtual teaching-research office construction</strong>, 14th Five-Year education teaching reform project, participant, 2022.</li>
+  <li><strong>Construction and practice of teaching resources for artificial intelligence course groups based on heterogeneous class design</strong>, 14th Five-Year education teaching reform project, participant, 2022.</li>
+  <li><strong>Innovative virtual-real experimental design for embedded health monitoring</strong>, provincial-level higher education innovative experimental project, participant, 2023.</li>
 </ul>
 
-### Student Projects and Competitions
+### Textbooks and Teaching Publications
 
 <ul class="compact-list">
-  <li>Supervised national-level undergraduate innovation projects on haptic sensing and feedback systems for vascular interventional surgical robots, wearable upper-limb exoskeleton rehabilitation, and MR-fluid-based haptic interaction systems.</li>
-  <li>Supervised a provincial-level undergraduate innovation project on a home-based upper-limb exoskeleton self-rehabilitation training system.</li>
-  <li>Guided student teams to win awards in intelligent robot creative competitions, "Internet+" innovation and entrepreneurship competitions, biomedical engineering innovation design competitions, and green manufacturing competitions.</li>
-  <li>Teaching awards include university-level higher education teaching achievement awards and multimedia courseware competition award.</li>
+  <li>Liang Zheng, Jian Wang, Jiannan Yuan, and <strong>Linshuai Zhang</strong>. <em>Embedded System Development and Practice: Based on STM32F10x Series</em>, 2nd edition. Beihang University Press, Feb. 2019.</li>
+  <li>Weiming Zhang and Zuojian Zhou. <em>Fundamentals of Medical Electronics</em>. Nanjing University Press, Sep. 2024. <strong>Linshuai Zhang</strong> served as editorial board member.</li>
+  <li><strong>Linshuai Zhang</strong>, Shuoxin Gu, Xiaoyan Huang, and Tao Jiang. Exploration and practice of online-offline blended teaching methods in Omron PLC courses. <em>Computer Knowledge and Technology</em>, 17(31):241-243, 2021.</li>
+</ul>
+
+### Undergraduate Innovation and Research Projects
+
+<ul class="compact-list">
+  <li><strong>Haptic sensing and feedback system for vascular interventional surgical robots</strong>, National Undergraduate Innovation Training Project, project leader: Xinlin Hao, ongoing.</li>
+  <li><strong>Wearable upper-limb exoskeleton-assisted rehabilitation training system</strong>, National Undergraduate Innovation Training Project, project leader: Honglin Li, ongoing.</li>
+  <li><strong>MR-fluid-based haptic interaction system for vascular interventional surgical robots</strong>, National Undergraduate Innovation Training Project, project leader: Jingjing Fan, completed.</li>
+  <li><strong>Home-based upper-limb exoskeleton self-rehabilitation training system</strong>, Provincial/ministerial Undergraduate Innovation Training Project, project leader: Biao Huang, ongoing.</li>
+  <li><strong>New distal ablation catheter structure integrating soft actuation and sensing</strong>, undergraduate research project of Chengdu University of Traditional Chinese Medicine, project leader: Yuyang Luo, ongoing.</li>
+</ul>
+
+### Student Competition Awards
+
+<ul class="compact-list">
+  <li>First Prize, 1st Sichuan College Student Intelligent Robot Creative Competition and selection contest of the 5th China Intelligent Robot Creative Competition. Project: Hair-washing robot.</li>
+  <li>First Prize, 5th China University Intelligent Robot Creative Competition. Project: Hair-washing robot.</li>
+  <li>Silver Award, 8th Sichuan International "Internet+" College Student Innovation and Entrepreneurship Competition. Project: Haptic interaction system for vascular interventional surgical robots.</li>
+  <li>Third Prize, Western China Division, 8th Delta Cup International University Green Manufacturing Competition. Project: Cyclic energy-saving disinfection and clothes-drying room.</li>
+  <li>Second Prize, 2nd Sichuan College Student Intelligent Robot Creative Competition. Project: Home-based upper-limb exoskeleton rehabilitation training system.</li>
+  <li>Third Prize, 6th China University Intelligent Robot Creative Competition. Project: Home-based upper-limb exoskeleton rehabilitation training system.</li>
+  <li>Third Prize, 8th National College Student Biomedical Engineering Innovation Design Competition. Project: MR-fluid-based haptic sensing and feedback system for vascular interventional surgical robots.</li>
+  <li>Bronze Award, 9th Sichuan International College Student Innovation Competition. Project: Haptic interaction system for teleoperated pan-vascular interventional surgical robots.</li>
+</ul>
+
+### Teaching Awards
+
+<ul class="compact-list">
+  <li>First Prize, university-level higher education teaching achievement award, ranked 4/10, 2021.</li>
+  <li>Third Prize, university-level higher education teaching achievement award, ranked 5/8, 2021.</li>
+  <li>Second Prize, 10th Multimedia Courseware Competition of Chengdu University of Information Technology, ranked 1/1, 2021.</li>
 </ul>
 
 <span class="anchor" id="services"></span>
