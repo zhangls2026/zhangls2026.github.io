@@ -254,6 +254,7 @@ div.author__avatar {
     white-space: normal;
     overflow-wrap: anywhere;
     word-break: normal;
+    text-align: left;
   }
 
   a {
@@ -269,6 +270,22 @@ div.author__avatar {
     &:hover {
       text-decoration: underline;
     }
+  }
+}
+
+.author__employer {
+  display: flex;
+  align-items: flex-start;
+
+  i {
+    flex: 0 0 auto;
+    margin-top: 0.2em;
+  }
+
+  span {
+    display: block;
+    text-align: left;
+    line-height: 1.35;
   }
 }
 
