@@ -178,6 +178,7 @@ div.author__avatar {
 
   @include breakpoint($large) {
     display: block;
+    width: 100%;
   }
 
   button {
@@ -249,7 +250,9 @@ div.author__avatar {
   }
 
   li {
-    white-space: nowrap;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
   }
 
   a {
