@@ -45,8 +45,10 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
   <li><span class="news-date">[2024.04]</span>: <span class="news-mark">🎉</span> A utility model patent was granted for the slave-side auxiliary subsystem of a cardiac ablation interventional robot.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang was selected as a Chengdu D-class talent and a Jinniu District D1-class outstanding talent.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang was recognized as an Outstanding Member of the Sichuan Artificial Intelligence Society.</li>
+  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang served as an editorial board member for the textbook <em>Fundamentals of Medical Electronics</em>.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang participated as a key researcher in projects on intelligent acupuncture robots and deep-learning-based acupoint localization.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Multiple IEEE ICMA/ROBIO papers were published on cardiac ablation robots, acupuncture robots, impedance control, and force sensing.</li>
+  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Student teams supervised by Dr. Zhang won awards in "Challenge Cup" and intelligent robot innovation competitions.</li>
   <li><span class="news-date">[2023.12]</span>: <span class="news-mark">🎉</span> A utility model patent was granted for a soft actuator and a distal ablation catheter using the soft actuator.</li>
   <li><span class="news-date">[2023.09]</span>: <span class="news-mark">🎉</span> The invention patent on a sensing needle based on micro-force sensing and biological principles was granted.</li>
   <li><span class="news-date">[2023.08]</span>: <span class="news-mark">🎉</span> The invention patent on a master-side haptic interaction device for vascular interventional robots was granted.</li>
@@ -57,13 +59,27 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
   <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> Dr. Zhang led a Sichuan key R&D project on compliant interaction control for interventional robots in dynamic cardiac chambers.</li>
   <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> A paper on spherical underwater robot communication and cooperation was published in <em>IEEE/ASME Transactions on Mechatronics</em>.</li>
   <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> Dr. Zhang led a university-level key teaching reform project on innovative experimental construction for <em>Medical Robotics</em>.</li>
+  <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> Undergraduate innovation projects supervised by Dr. Zhang were approved at national and provincial levels.</li>
+  <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> Student teams supervised by Dr. Zhang won awards in the Sichuan International College Student Innovation Competition and biomedical engineering competitions.</li>
   <li><span class="news-date">[2022]</span>: <span class="news-mark">🎉</span> Dr. Zhang won the Second Prize of the China Invention and Entrepreneurship Award Achievement Award.</li>
   <li><span class="news-date">[2022]</span>: <span class="news-mark">🎉</span> Dr. Zhang led projects on unmanned agricultural machinery localization and multi-sensor fusion localization for autonomous unmanned systems.</li>
+  <li><span class="news-date">[2022]</span>: <span class="news-mark">🎉</span> Dr. Zhang participated in a Sichuan international cooperation project on campus unmanned shuttle vehicle technologies.</li>
+  <li><span class="news-date">[2022]</span>: <span class="news-mark">🎉</span> Dr. Zhang joined Chengdu University of Traditional Chinese Medicine as a Distinguished Associate Professor.</li>
   <li><span class="news-date">[2022]</span>: <span class="news-mark">🎉</span> Student teams supervised by Dr. Zhang won awards in intelligent robot, biomedical engineering, and innovation entrepreneurship competitions.</li>
   <li><span class="news-date">[2021]</span>: <span class="news-mark">🎉</span> Dr. Zhang received university-level higher education teaching achievement awards and a multimedia courseware award.</li>
   <li><span class="news-date">[2021]</span>: <span class="news-mark">🎉</span> Dr. Zhang started a research project on haptic-feedback-based safety warning for vascular interventional surgical robots.</li>
+  <li><span class="news-date">[2021]</span>: <span class="news-mark">🎉</span> A paper on an MR-fluid-based robot-assisted catheter/guidewire surgery system was published in <em>Micromachines</em>.</li>
+  <li><span class="news-date">[2021]</span>: <span class="news-mark">🎉</span> Dr. Zhang published a teaching research paper on online-offline blended teaching methods for Omron PLC courses.</li>
   <li><span class="news-date">[2020]</span>: <span class="news-mark">🎉</span> Dr. Zhang was selected as a high-level overseas returnee talent of Sichuan Province.</li>
+  <li><span class="news-date">[2019]</span>: <span class="news-mark">🎉</span> A collaborative paper on a robot-assisted endovascular catheterization system with haptic force feedback was published in <em>IEEE Transactions on Robotics</em>.</li>
+  <li><span class="news-date">[2019]</span>: <span class="news-mark">🎉</span> Dr. Zhang completed his Ph.D. at Kagawa University and began postdoctoral research there.</li>
+  <li><span class="news-date">[2019]</span>: <span class="news-mark">🎉</span> Dr. Zhang joined Chengdu University of Information Technology as a lecturer.</li>
   <li><span class="news-date">[2018]</span>: <span class="news-mark">🎉</span> Dr. Zhang received the Best Conference Paper Nomination Award at IEEE ICIA 2018.</li>
+  <li><span class="news-date">[2018]</span>: <span class="news-mark">🎉</span> Dr. Zhang received the Kagawa University Global Human Resource Development Special Fund.</li>
+  <li><span class="news-date">[2018]</span>: <span class="news-mark">🎉</span> Papers on collision protection, haptic interfaces, and robotic catheter systems were published in <em>Biomedical Microdevices</em> and <em>Microsystem Technologies</em>.</li>
+  <li><span class="news-date">[2017]</span>: <span class="news-mark">🎉</span> Dr. Zhang received the President's Commendation Award from Kagawa University and the Kuraoka Scholarship Foundation Special Scholarship.</li>
+  <li><span class="news-date">[2017]</span>: <span class="news-mark">🎉</span> A paper on strain-gauge force sensing for a haptic robot-assisted catheter operating system was published in <em>Microsystem Technologies</em>.</li>
+  <li><span class="news-date">[2016]</span>: <span class="news-mark">🎉</span> Dr. Zhang received the Outstanding Master's Thesis Award of Jilin Province.</li>
 </ul>
 
 <span class="anchor" id="research"></span>
