@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Chengdu University of Traditional Chinese Medicine">
+  <circle cx="40" cy="40" r="36" fill="#0f6b4f"/>
+  <circle cx="40" cy="40" r="31" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <path d="M40 17c-8 8-12 15-12 23 0 9 5 16 12 23 7-7 12-14 12-23 0-8-4-15-12-23z" fill="#ffffff"/>
+  <path d="M27 42c7-2 19-2 26 0M40 23v33" fill="none" stroke="#0f6b4f" stroke-width="3" stroke-linecap="round"/>
+</svg>

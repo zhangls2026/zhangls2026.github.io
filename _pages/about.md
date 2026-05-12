@@ -231,23 +231,125 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 # <i class="fas fa-user-graduate"></i> Education
 
-<div class="timeline-list" markdown="1">
-- **2016.04 - 2019.03**, Kagawa University, Japan, Ph.D. in Intelligent Mechanical Systems Engineering
-- **2015.09 - 2019.06**, Changchun University of Science and Technology, Ph.D. study in Mechanical Engineering
-- **2012.09 - 2015.04**, Changchun University of Science and Technology, M.Eng. in Mechanical Manufacturing and Automation
-- **2007.09 - 2011.06**, Changchun University of Science and Technology, B.Eng. in Mechanical Design, Manufacturing and Automation
+<div class="logo-box">
+  <div class="logo-img">
+    <img src="images/kagawa_logo.png" alt="Kagawa University logo">
+  </div>
+  <div class="logo-text">
+    <h3><em>Kagawa University</em><span>2016.04 - 2019.03</span></h3>
+    <ul>
+      <li><strong>Ph.D. in Intelligent Mechanical Systems Engineering</strong></li>
+      <li>Kagawa, Japan</li>
+    </ul>
+  </div>
+</div>
+
+<div class="logo-box">
+  <div class="logo-img">
+    <img src="images/cust_logo.svg" alt="Changchun University of Science and Technology logo">
+  </div>
+  <div class="logo-text">
+    <h3><em>Changchun University of Science and Technology</em><span>2015.09 - 2019.06</span></h3>
+    <ul>
+      <li><strong>Ph.D. study in Mechanical Engineering</strong></li>
+      <li>Changchun, China</li>
+    </ul>
+  </div>
+</div>
+
+<div class="logo-box">
+  <div class="logo-img">
+    <img src="images/cust_logo.svg" alt="Changchun University of Science and Technology logo">
+  </div>
+  <div class="logo-text">
+    <h3><em>Changchun University of Science and Technology</em><span>2012.09 - 2015.04</span></h3>
+    <ul>
+      <li><strong>M.Eng. in Mechanical Manufacturing and Automation</strong></li>
+      <li>Changchun, China</li>
+    </ul>
+  </div>
+</div>
+
+<div class="logo-box">
+  <div class="logo-img">
+    <img src="images/cust_logo.svg" alt="Changchun University of Science and Technology logo">
+  </div>
+  <div class="logo-text">
+    <h3><em>Changchun University of Science and Technology</em><span>2007.09 - 2011.06</span></h3>
+    <ul>
+      <li><strong>B.Eng. in Mechanical Design, Manufacturing and Automation</strong></li>
+      <li>Changchun, China</li>
+    </ul>
+  </div>
 </div>
 
 <span class="anchor" id="experience"></span>
 
 # <i class="fas fa-briefcase"></i> Work Experiences
 
-<div class="timeline-list" markdown="1">
-- **2022.12 - Present**, Chengdu University of Traditional Chinese Medicine, Distinguished Associate Professor
-- **2019.10 - 2022.11**, Chengdu University of Information Technology, Lecturer
-- **2019.04 - 2020.03**, Kagawa University, Japan, Collaborative Researcher / Postdoctoral Researcher
-- **2016.10 - 2019.02**, Kagawa University, Japan, Teaching Assistant
-- **2016.04 - 2019.03**, Kagawa University, Japan, Research Assistant
+<div class="logo-box">
+  <div class="logo-img">
+    <img src="images/cdutcm_logo.svg" alt="Chengdu University of Traditional Chinese Medicine logo">
+  </div>
+  <div class="logo-text">
+    <h3><em>Chengdu University of Traditional Chinese Medicine</em><span>2022.12 - Present</span></h3>
+    <ul>
+      <li><strong>Distinguished Associate Professor</strong></li>
+      <li>Chengdu, China</li>
+    </ul>
+  </div>
+</div>
+
+<div class="logo-box">
+  <div class="logo-img">
+    <img src="images/cuit_logo.svg" alt="Chengdu University of Information Technology logo">
+  </div>
+  <div class="logo-text">
+    <h3><em>Chengdu University of Information Technology</em><span>2019.10 - 2022.11</span></h3>
+    <ul>
+      <li><strong>Lecturer</strong></li>
+      <li>Chengdu, China</li>
+    </ul>
+  </div>
+</div>
+
+<div class="logo-box">
+  <div class="logo-img">
+    <img src="images/kagawa_logo.png" alt="Kagawa University logo">
+  </div>
+  <div class="logo-text">
+    <h3><em>Kagawa University</em><span>2019.04 - 2020.03</span></h3>
+    <ul>
+      <li><strong>Collaborative Researcher / Postdoctoral Researcher</strong></li>
+      <li>Kagawa, Japan</li>
+    </ul>
+  </div>
+</div>
+
+<div class="logo-box">
+  <div class="logo-img">
+    <img src="images/kagawa_logo.png" alt="Kagawa University logo">
+  </div>
+  <div class="logo-text">
+    <h3><em>Kagawa University</em><span>2016.10 - 2019.02</span></h3>
+    <ul>
+      <li><strong>Teaching Assistant</strong></li>
+      <li>Kagawa, Japan</li>
+    </ul>
+  </div>
+</div>
+
+<div class="logo-box">
+  <div class="logo-img">
+    <img src="images/kagawa_logo.png" alt="Kagawa University logo">
+  </div>
+  <div class="logo-text">
+    <h3><em>Kagawa University</em><span>2016.04 - 2019.03</span></h3>
+    <ul>
+      <li><strong>Research Assistant</strong></li>
+      <li>Kagawa, Japan</li>
+    </ul>
+  </div>
 </div>
 
 <span class="anchor" id="teaching"></span>

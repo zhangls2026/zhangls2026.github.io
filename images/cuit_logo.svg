@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Chengdu University of Information Technology">
+  <circle cx="40" cy="40" r="36" fill="#1f5ea8"/>
+  <circle cx="40" cy="40" r="30" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <path d="M24 46c6-12 14-18 32-18M24 54c10-6 20-8 32-5" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="32" cy="31" r="4" fill="#bfe5ff"/>
+  <circle cx="51" cy="50" r="4" fill="#bfe5ff"/>
+</svg>
