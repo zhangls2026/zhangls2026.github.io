@@ -31,14 +31,22 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 # <i class="fas fa-rss"></i> News
 
 <ul class="news-box">
+  <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> Dr. Zhang led a new technology-transfer project on intelligent moxibustion physiotherapy robots for industrialization.</li>
   <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> A journal paper on a magnetorheological-fluid haptic interface for endovascular catheterization was published in <em>Sensors</em>.</li>
   <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> A journal paper on an angle-sensor-integrated upper-limb exoskeleton system was published in <em>Sensors</em>.</li>
   <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> A robotic system with haptic feedback for precision cardiac ablation was published in <em>Scientific Reports</em>.</li>
-  <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> Dr. Zhang started a technology-transfer project on intelligent moxibustion physiotherapy robots.</li>
+  <li><span class="news-date">[2025]</span>: <span class="news-mark">🎉</span> Two IEEE ICMA papers were published on catheter force feedback and precision acupuncture robot force/torque sensing.</li>
+  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> An IEEE Access paper on acupoint resistance and temperature sensing was published.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang was recognized as an Outstanding Member of the Sichuan Artificial Intelligence Society.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang was selected as a Chengdu D-class talent and a Jinniu District D1-class talent.</li>
-  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Multiple papers were presented at IEEE ICMA and IEEE ROBIO on vascular intervention, acupuncture robots, and force sensing.</li>
+  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang participated as a key researcher in projects on intelligent acupuncture robots and deep-learning-based acupoint localization.</li>
+  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Multiple patents were filed or granted for soft actuators, cardiac ablation robot subsystems, acupuncture robots, and force sensors.</li>
   <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> A paper on spherical underwater robot cooperation was published in <em>IEEE/ASME Transactions on Mechatronics</em>.</li>
+  <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> Dr. Zhang led a National Natural Science Foundation of China Youth Program on distal ablation catheter force control.</li>
+  <li><span class="news-date">[2023]</span>: <span class="news-mark">🎉</span> Dr. Zhang led a Sichuan key R&D project on compliant interaction control for interventional robots in dynamic cardiac chambers.</li>
+  <li><span class="news-date">[2022]</span>: <span class="news-mark">🎉</span> Dr. Zhang won the Second Prize of the China Invention and Entrepreneurship Award Achievement Award.</li>
+  <li><span class="news-date">[2022]</span>: <span class="news-mark">🎉</span> Dr. Zhang led projects on unmanned agricultural machinery localization and multi-sensor fusion localization for autonomous unmanned systems.</li>
+  <li><span class="news-date">[2021]</span>: <span class="news-mark">🎉</span> Dr. Zhang received university-level higher education teaching achievement awards and started a research project on haptic-feedback-based safety warning for vascular interventional surgical robots.</li>
   <li><span class="news-date">[2020]</span>: <span class="news-mark">🎉</span> Dr. Zhang was selected as a high-level overseas returnee talent of Sichuan Province.</li>
   <li><span class="news-date">[2018]</span>: <span class="news-mark">🎉</span> Dr. Zhang received the Best Conference Paper Nomination Award at IEEE ICIA 2018.</li>
 </ul>
@@ -74,7 +82,11 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 <ul class="compact-list">
   <li>Key technologies for human back acupoint recognition and localization based on deep learning, Sichuan International Science and Technology Innovation Cooperation Program, 2024-2025.</li>
   <li>Key technologies for intelligent acupuncture robots in traditional Chinese medicine, Sichuan Administration of Traditional Chinese Medicine, 2024-2026.</li>
+  <li>Intelligent vehicle perception and control technologies under special environments, national science and technology program, sub-project leader, 2022.</li>
   <li>Campus unmanned shuttle vehicle key technologies, Sichuan International Science and Technology Cooperation Program, 2021-2023.</li>
+  <li>Intelligent vehicle technologies based on special sensing systems, national science and technology program, key participant, 2021.</li>
+  <li>Intelligent vehicle technologies based on special sensing systems, national science and technology program, key participant, 2020.</li>
+  <li>Special test bench system for high-altitude engine thrust measurement, industry-sponsored project, key participant, 2022.</li>
   <li>High-end real-time cardiovascular and cerebrovascular interventional assistance robotic system, National High Technology Research and Development Program of China, 2015-2020.</li>
 </ul>
 
