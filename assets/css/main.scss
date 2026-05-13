@@ -288,17 +288,22 @@ h1:before, .anchor:before {
     }
 
     .paper-title {
-        color: inherit;
-        font-weight: inherit;
-        border-bottom: 0;
+        color: inherit !important;
+        font-weight: inherit !important;
+        border-bottom: 0 !important;
+        text-decoration: none !important;
     }
 
+    a,
     a.paper-title {
-        text-decoration: none;
+        color: inherit !important;
+        border-bottom: 0 !important;
+        text-decoration: none !important;
 
         &:hover {
-            color: #1f4e79;
-            text-decoration: underline;
+            color: inherit !important;
+            border-bottom: 0 !important;
+            text-decoration: none !important;
         }
     }
 
