@@ -284,6 +284,20 @@ div.author__avatar {
     text-align: center;
   }
 
+  a {
+    display: block;
+    flex: 1 1 auto;
+    margin-bottom: 0;
+    padding: 0;
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      color: $link-color;
+      text-decoration: underline;
+    }
+  }
+
   span {
     display: block;
     flex: 1 1 auto;

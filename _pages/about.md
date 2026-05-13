@@ -45,7 +45,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
   <li><span class="news-date">[2024.04]</span>: <span class="news-mark">🎉</span> A utility model patent was granted for the slave-side auxiliary subsystem of a cardiac ablation interventional robot.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang was selected as a Chengdu D-class talent and a Jinniu District D1-class outstanding talent.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang was recognized as an Outstanding Member of the Sichuan Artificial Intelligence Society.</li>
-  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang served as an editorial board member for the textbook <em>Fundamentals of Medical Electronics</em>.</li>
+  <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang served as an editorial board member for the textbook <em><span class="paper-title">Fundamentals of Medical Electronics</span></em>.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Dr. Zhang participated as a key researcher in projects on intelligent acupuncture robots and deep-learning-based acupoint localization.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Multiple IEEE ICMA/ROBIO papers were published on cardiac ablation robots, acupuncture robots, impedance control, and force sensing.</li>
   <li><span class="news-date">[2024]</span>: <span class="news-mark">🎉</span> Student teams supervised by Dr. Zhang won awards in "Challenge Cup" and intelligent robot innovation competitions.</li>
@@ -100,25 +100,25 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 ### Principal Investigator
 
 <ul class="compact-list">
-  <li><strong>Key technologies and application demonstration of intelligent moxibustion physiotherapy robots for industrialization</strong>, Sichuan Administration of Traditional Chinese Medicine, 2025-2027.</li>
-  <li><strong>Dynamic precise force control of a new distal ablation catheter structure based on soft actuation and sensing</strong>, National Natural Science Foundation of China Youth Program, 2023-2025.</li>
-  <li><strong>Compliant contact interaction control of a distal ablation catheter for interventional robots in dynamic cardiac chambers</strong>, Sichuan Science and Technology Program, 2023-2024.</li>
-  <li><strong>GNSS/IMU/UWB-based seamless high-precision positioning for unmanned agricultural machinery</strong>, Chengdu Science and Technology Bureau, 2022-2023.</li>
-  <li><strong>Multi-sensor fusion localization for autonomous unmanned systems</strong>, Open Fund of Sichuan Engineering Laboratory for Intelligent Perception and Control of Unmanned Systems, 2022-2023.</li>
-  <li><strong>Safety warning mechanism for vascular interventional surgical robots based on haptic feedback</strong>, Talent Introduction Research Start-up Project, Chengdu University of Information Technology, 2021-2023.</li>
+  <li><span class="paper-title">Key technologies and application demonstration of intelligent moxibustion physiotherapy robots for industrialization</span>, Sichuan Administration of Traditional Chinese Medicine, 2025-2027.</li>
+  <li><span class="paper-title">Dynamic precise force control of a new distal ablation catheter structure based on soft actuation and sensing</span>, National Natural Science Foundation of China Youth Program, 2023-2025.</li>
+  <li><span class="paper-title">Compliant contact interaction control of a distal ablation catheter for interventional robots in dynamic cardiac chambers</span>, Sichuan Science and Technology Program, 2023-2024.</li>
+  <li><span class="paper-title">GNSS/IMU/UWB-based seamless high-precision positioning for unmanned agricultural machinery</span>, Chengdu Science and Technology Bureau, 2022-2023.</li>
+  <li><span class="paper-title">Multi-sensor fusion localization for autonomous unmanned systems</span>, Open Fund of Sichuan Engineering Laboratory for Intelligent Perception and Control of Unmanned Systems, 2022-2023.</li>
+  <li><span class="paper-title">Safety warning mechanism for vascular interventional surgical robots based on haptic feedback</span>, Talent Introduction Research Start-up Project, Chengdu University of Information Technology, 2021-2023.</li>
 </ul>
 
 ### Key Participant
 
 <ul class="compact-list">
-  <li>Key technologies for human back acupoint recognition and localization based on deep learning, Sichuan International Science and Technology Innovation Cooperation Program, 2024-2025.</li>
-  <li>Key technologies for intelligent acupuncture robots in traditional Chinese medicine, Sichuan Administration of Traditional Chinese Medicine, 2024-2026.</li>
-  <li>Intelligent vehicle perception and control technologies under special environments, national science and technology program, sub-project leader, 2022.</li>
-  <li>Campus unmanned shuttle vehicle key technologies, Sichuan International Science and Technology Cooperation Program, 2021-2023.</li>
-  <li>Intelligent vehicle technologies based on special sensing systems, national science and technology program, key participant, 2021.</li>
-  <li>Intelligent vehicle technologies based on special sensing systems, national science and technology program, key participant, 2020.</li>
-  <li>Special test bench system for high-altitude engine thrust measurement, industry-sponsored project, key participant, 2022.</li>
-  <li>High-end real-time cardiovascular and cerebrovascular interventional assistance robotic system, National High Technology Research and Development Program of China, 2015-2020.</li>
+  <li><span class="paper-title">Key technologies for human back acupoint recognition and localization based on deep learning</span>, Sichuan International Science and Technology Innovation Cooperation Program, 2024-2025.</li>
+  <li><span class="paper-title">Key technologies for intelligent acupuncture robots in traditional Chinese medicine</span>, Sichuan Administration of Traditional Chinese Medicine, 2024-2026.</li>
+  <li><span class="paper-title">Intelligent vehicle perception and control technologies under special environments</span>, national science and technology program, sub-project leader, 2022.</li>
+  <li><span class="paper-title">Campus unmanned shuttle vehicle key technologies</span>, Sichuan International Science and Technology Cooperation Program, 2021-2023.</li>
+  <li><span class="paper-title">Intelligent vehicle technologies based on special sensing systems</span>, national science and technology program, key participant, 2021.</li>
+  <li><span class="paper-title">Intelligent vehicle technologies based on special sensing systems</span>, national science and technology program, key participant, 2020.</li>
+  <li><span class="paper-title">Special test bench system for high-altitude engine thrust measurement</span>, industry-sponsored project, key participant, 2022.</li>
+  <li><span class="paper-title">High-end real-time cardiovascular and cerebrovascular interventional assistance robotic system</span>, National High Technology Research and Development Program of China, 2015-2020.</li>
 </ul>
 
 <span class="anchor" id="publications"></span>
@@ -359,43 +359,43 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 ### Teaching Reform Projects
 
 <ul class="compact-list">
-  <li><strong>Innovative experimental project construction for <em>Medical Robotics</em> oriented toward outstanding innovative talent cultivation in the context of new medicine</strong>, Chengdu University of Traditional Chinese Medicine teaching reform project, university-level key project, PI, 2023.</li>
-  <li><strong>Construction of digital-twin-based experimental projects for motion control courses</strong>, undergraduate education teaching research and reform project / virtual simulation first-class experimental teaching course construction project, participant, 2021.</li>
-  <li><strong>Construction and implementation of automation practice course systems in the context of new engineering education</strong>, undergraduate education teaching research and reform project / practical teaching reform project, participant, 2021.</li>
-  <li><strong>Regional collaborative and multidisciplinary artificial intelligence virtual teaching-research office construction</strong>, 14th Five-Year education teaching reform project, participant, 2022.</li>
-  <li><strong>Construction and practice of teaching resources for artificial intelligence course groups based on heterogeneous class design</strong>, 14th Five-Year education teaching reform project, participant, 2022.</li>
-  <li><strong>Innovative virtual-real experimental design for embedded health monitoring</strong>, provincial-level higher education innovative experimental project, participant, 2023.</li>
+  <li><span class="paper-title">Innovative experimental project construction for <em>Medical Robotics</em> oriented toward outstanding innovative talent cultivation in the context of new medicine</span>, Chengdu University of Traditional Chinese Medicine teaching reform project, university-level key project, PI, 2023.</li>
+  <li><span class="paper-title">Construction of digital-twin-based experimental projects for motion control courses</span>, undergraduate education teaching research and reform project / virtual simulation first-class experimental teaching course construction project, participant, 2021.</li>
+  <li><span class="paper-title">Construction and implementation of automation practice course systems in the context of new engineering education</span>, undergraduate education teaching research and reform project / practical teaching reform project, participant, 2021.</li>
+  <li><span class="paper-title">Regional collaborative and multidisciplinary artificial intelligence virtual teaching-research office construction</span>, 14th Five-Year education teaching reform project, participant, 2022.</li>
+  <li><span class="paper-title">Construction and practice of teaching resources for artificial intelligence course groups based on heterogeneous class design</span>, 14th Five-Year education teaching reform project, participant, 2022.</li>
+  <li><span class="paper-title">Innovative virtual-real experimental design for embedded health monitoring</span>, provincial-level higher education innovative experimental project, participant, 2023.</li>
 </ul>
 
 ### Textbooks and Teaching Publications
 
 <ul class="compact-list">
-  <li>Liang Zheng, Jian Wang, Jiannan Yuan, and <strong>Linshuai Zhang</strong>. <em>Embedded System Development and Practice: Based on STM32F10x Series</em>, 2nd edition. Beihang University Press, Feb. 2019.</li>
-  <li>Weiming Zhang and Zuojian Zhou. <em>Fundamentals of Medical Electronics</em>. Nanjing University Press, Sep. 2024. <strong>Linshuai Zhang</strong> served as editorial board member.</li>
-  <li><strong>Linshuai Zhang</strong>, Shuoxin Gu, Xiaoyan Huang, and Tao Jiang. Exploration and practice of online-offline blended teaching methods in Omron PLC courses. <em>Computer Knowledge and Technology</em>, 17(31):241-243, 2021.</li>
+  <li>Liang Zheng, Jian Wang, Jiannan Yuan, and <strong>Linshuai Zhang</strong>. <em><span class="paper-title">Embedded System Development and Practice: Based on STM32F10x Series</span></em>, 2nd edition. Beihang University Press, Feb. 2019.</li>
+  <li>Weiming Zhang and Zuojian Zhou. <em><span class="paper-title">Fundamentals of Medical Electronics</span></em>. Nanjing University Press, Sep. 2024. <strong>Linshuai Zhang</strong> served as editorial board member.</li>
+  <li><strong>Linshuai Zhang</strong>, Shuoxin Gu, Xiaoyan Huang, and Tao Jiang. <span class="paper-title">Exploration and practice of online-offline blended teaching methods in Omron PLC courses</span>. <em>Computer Knowledge and Technology</em>, 17(31):241-243, 2021.</li>
 </ul>
 
 ### Undergraduate Innovation and Research Projects
 
 <ul class="compact-list">
-  <li><strong>Haptic sensing and feedback system for vascular interventional surgical robots</strong>, National Undergraduate Innovation Training Project, project leader: Xinlin Hao, ongoing.</li>
-  <li><strong>Wearable upper-limb exoskeleton-assisted rehabilitation training system</strong>, National Undergraduate Innovation Training Project, project leader: Honglin Li, ongoing.</li>
-  <li><strong>MR-fluid-based haptic interaction system for vascular interventional surgical robots</strong>, National Undergraduate Innovation Training Project, project leader: Jingjing Fan, completed.</li>
-  <li><strong>Home-based upper-limb exoskeleton self-rehabilitation training system</strong>, Provincial/ministerial Undergraduate Innovation Training Project, project leader: Biao Huang, ongoing.</li>
-  <li><strong>New distal ablation catheter structure integrating soft actuation and sensing</strong>, undergraduate research project of Chengdu University of Traditional Chinese Medicine, project leader: Yuyang Luo, ongoing.</li>
+  <li><span class="paper-title">Haptic sensing and feedback system for vascular interventional surgical robots</span>, National Undergraduate Innovation Training Project, project leader: Xinlin Hao, ongoing.</li>
+  <li><span class="paper-title">Wearable upper-limb exoskeleton-assisted rehabilitation training system</span>, National Undergraduate Innovation Training Project, project leader: Honglin Li, ongoing.</li>
+  <li><span class="paper-title">MR-fluid-based haptic interaction system for vascular interventional surgical robots</span>, National Undergraduate Innovation Training Project, project leader: Jingjing Fan, completed.</li>
+  <li><span class="paper-title">Home-based upper-limb exoskeleton self-rehabilitation training system</span>, Provincial/ministerial Undergraduate Innovation Training Project, project leader: Biao Huang, ongoing.</li>
+  <li><span class="paper-title">New distal ablation catheter structure integrating soft actuation and sensing</span>, undergraduate research project of Chengdu University of Traditional Chinese Medicine, project leader: Yuyang Luo, ongoing.</li>
 </ul>
 
 ### Student Competition Awards
 
 <ul class="compact-list">
-  <li>First Prize, 1st Sichuan College Student Intelligent Robot Creative Competition and selection contest of the 5th China Intelligent Robot Creative Competition. Project: Hair-washing robot.</li>
-  <li>First Prize, 5th China University Intelligent Robot Creative Competition. Project: Hair-washing robot.</li>
-  <li>Silver Award, 8th Sichuan International "Internet+" College Student Innovation and Entrepreneurship Competition. Project: Haptic interaction system for vascular interventional surgical robots.</li>
-  <li>Third Prize, Western China Division, 8th Delta Cup International University Green Manufacturing Competition. Project: Cyclic energy-saving disinfection and clothes-drying room.</li>
-  <li>Second Prize, 2nd Sichuan College Student Intelligent Robot Creative Competition. Project: Home-based upper-limb exoskeleton rehabilitation training system.</li>
-  <li>Third Prize, 6th China University Intelligent Robot Creative Competition. Project: Home-based upper-limb exoskeleton rehabilitation training system.</li>
-  <li>Third Prize, 8th National College Student Biomedical Engineering Innovation Design Competition. Project: MR-fluid-based haptic sensing and feedback system for vascular interventional surgical robots.</li>
-  <li>Bronze Award, 9th Sichuan International College Student Innovation Competition. Project: Haptic interaction system for teleoperated pan-vascular interventional surgical robots.</li>
+  <li>First Prize, 1st Sichuan College Student Intelligent Robot Creative Competition and selection contest of the 5th China Intelligent Robot Creative Competition. Project: <span class="paper-title">Hair-washing robot</span>.</li>
+  <li>First Prize, 5th China University Intelligent Robot Creative Competition. Project: <span class="paper-title">Hair-washing robot</span>.</li>
+  <li>Silver Award, 8th Sichuan International "Internet+" College Student Innovation and Entrepreneurship Competition. Project: <span class="paper-title">Haptic interaction system for vascular interventional surgical robots</span>.</li>
+  <li>Third Prize, Western China Division, 8th Delta Cup International University Green Manufacturing Competition. Project: <span class="paper-title">Cyclic energy-saving disinfection and clothes-drying room</span>.</li>
+  <li>Second Prize, 2nd Sichuan College Student Intelligent Robot Creative Competition. Project: <span class="paper-title">Home-based upper-limb exoskeleton rehabilitation training system</span>.</li>
+  <li>Third Prize, 6th China University Intelligent Robot Creative Competition. Project: <span class="paper-title">Home-based upper-limb exoskeleton rehabilitation training system</span>.</li>
+  <li>Third Prize, 8th National College Student Biomedical Engineering Innovation Design Competition. Project: <span class="paper-title">MR-fluid-based haptic sensing and feedback system for vascular interventional surgical robots</span>.</li>
+  <li>Bronze Award, 9th Sichuan International College Student Innovation Competition. Project: <span class="paper-title">Haptic interaction system for teleoperated pan-vascular interventional surgical robots</span>.</li>
 </ul>
 
 ### Teaching Awards
