@@ -292,6 +292,7 @@ div.author__avatar {
     padding: 0;
     color: inherit;
     text-decoration: none;
+    text-align: left;
 
     &:hover {
       color: $link-color;
@@ -304,12 +305,6 @@ div.author__avatar {
     flex: 1 1 auto;
     text-align: left;
     line-height: 1.42;
-  }
-}
-
-.author__employer {
-  span {
-    letter-spacing: 0;
   }
 }
 
