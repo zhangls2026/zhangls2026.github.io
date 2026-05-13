@@ -193,6 +193,11 @@ h1:before, .anchor:before {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 50px;
+    overflow: hidden;
+    font-size: .7em;
+    line-height: 1.1;
+    text-align: center;
 
     img {
         width: 44px;

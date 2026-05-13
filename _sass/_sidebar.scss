@@ -273,17 +273,20 @@ div.author__avatar {
   }
 }
 
-.author__employer {
+.author__meta-line {
   display: flex;
   align-items: flex-start;
 
   i {
-    flex: 0 0 auto;
+    flex: 0 0 1.28571429em;
+    width: 1.28571429em;
     margin-top: 0.2em;
+    text-align: center;
   }
 
   span {
     display: block;
+    flex: 1 1 auto;
     text-align: left;
     line-height: 1.35;
   }
