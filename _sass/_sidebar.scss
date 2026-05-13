@@ -276,6 +276,7 @@ div.author__avatar {
 .author__meta-line {
   display: flex;
   align-items: flex-start;
+  margin-bottom: 0.35em;
 
   i {
     flex: 0 0 1.28571429em;
@@ -302,7 +303,13 @@ div.author__avatar {
     display: block;
     flex: 1 1 auto;
     text-align: left;
-    line-height: 1.35;
+    line-height: 1.42;
+  }
+}
+
+.author__employer {
+  span {
+    letter-spacing: 0;
   }
 }
 
