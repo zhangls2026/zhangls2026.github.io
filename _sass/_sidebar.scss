@@ -306,6 +306,14 @@ div.author__avatar {
   }
 }
 
+.author__employer {
+  span {
+    max-width: 13.5em;
+    text-align: justify;
+    text-align-last: justify;
+  }
+}
+
 .author__urls_sm{
   padding: .25em;
   font-size: 1.75em;
