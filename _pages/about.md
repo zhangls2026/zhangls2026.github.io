@@ -246,7 +246,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 <div class="logo-box">
   <div class="logo-img">
-    <img src="images/cust_logo.svg?v=20260513" alt="">
+    <img src="images/cust_logo.png?v=20260513" alt="">
   </div>
   <div class="logo-text">
     <h3><em>Changchun University of Science and Technology</em><span>2015.09 - 2019.06</span></h3>
@@ -259,7 +259,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 <div class="logo-box">
   <div class="logo-img">
-    <img src="images/cust_logo.svg?v=20260513" alt="">
+    <img src="images/cust_logo.png?v=20260513" alt="">
   </div>
   <div class="logo-text">
     <h3><em>Changchun University of Science and Technology</em><span>2012.09 - 2015.04</span></h3>
@@ -272,7 +272,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 <div class="logo-box">
   <div class="logo-img">
-    <img src="images/cust_logo.svg?v=20260513" alt="">
+    <img src="images/cust_logo.png?v=20260513" alt="">
   </div>
   <div class="logo-text">
     <h3><em>Changchun University of Science and Technology</em><span>2007.09 - 2011.06</span></h3>
