@@ -289,7 +289,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 <div class="logo-box">
   <div class="logo-img">
-    <img src="images/cdutcm_logo.svg" alt="Chengdu University of Traditional Chinese Medicine logo">
+    <img src="images/cdutcm_logo.png" alt="Chengdu University of Traditional Chinese Medicine logo">
   </div>
   <div class="logo-text">
     <h3><em>Chengdu University of Traditional Chinese Medicine</em><span>2022.12 - Present</span></h3>
@@ -302,7 +302,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 <div class="logo-box">
   <div class="logo-img">
-    <img src="images/cuit_logo.svg" alt="Chengdu University of Information Technology logo">
+    <img src="images/cuit_logo.png" alt="Chengdu University of Information Technology logo">
   </div>
   <div class="logo-text">
     <h3><em>Chengdu University of Information Technology</em><span>2019.10 - 2022.11</span></h3>
