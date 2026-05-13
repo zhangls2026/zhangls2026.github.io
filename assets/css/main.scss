@@ -287,6 +287,21 @@ h1:before, .anchor:before {
         padding-right: .5rem;
     }
 
+    .paper-title {
+        color: inherit;
+        font-weight: inherit;
+        border-bottom: 0;
+    }
+
+    a.paper-title {
+        text-decoration: none;
+
+        &:hover {
+            color: #1f4e79;
+            text-decoration: underline;
+        }
+    }
+
     &::-webkit-scrollbar {
         width: .55rem;
     }
