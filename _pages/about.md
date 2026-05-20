@@ -214,6 +214,8 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 # <i class="fas fa-trophy"></i> Honors and Awards
 
+- *2026* Program Committee Member, IEEE International Conference on Mechatronics and Automation (IEEE ICMA 2026)
+- *2026* Invited Guest Editor, Research Topic, <em>Frontiers in Robotics and AI</em>
 - *2024* Chengdu D-class Talent
 - *2024* Jinniu District D1-class Outstanding Talent, Chengdu
 - *2024* Outstanding Member of the Sichuan Artificial Intelligence Society
