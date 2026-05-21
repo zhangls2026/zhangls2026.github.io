@@ -14,12 +14,12 @@ redirect_from:
 
 <p class="intro-quote">
 <i class="fas fa-quote-left fa-2x fa-pull-left fa-border" aria-hidden="true"></i>
-Linshuai Zhang is an Assoc. Prof. and Master's Supervisor at Chengdu University of Traditional Chinese Medicine. He received his Ph.D. in Intelligent Mechanical Systems Engineering from Kagawa University, Japan, and completed postdoctoral research at Kagawa University. Before joining CDUTCM, he worked as a lecturer at Chengdu University of Information Technology. He has been selected as a high-level overseas returnee talent of Sichuan Province, a Chengdu D-class talent, and a Jinniu District D1-class outstanding talent. His research focuses on vascular interventional surgical robots, acupuncture robots, haptic feedback, intelligent sensing, and interactive control for medical robotic systems. He has led or participated in national and provincial research projects and has published 60+ papers with 20+ patents and software copyrights.
+Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu University of Traditional Chinese Medicine. He received his Ph.D. in Intelligent Mechanical Systems Engineering from Kagawa University, Japan, and completed postdoctoral research at Kagawa University. Before joining CDUTCM, he worked as a lecturer at Chengdu University of Information Technology. He has been selected as a high-level overseas returnee talent of Sichuan Province, a Chengdu D-class talent, and a Jinniu District D1-class outstanding talent. His research focuses on vascular interventional surgical robots, acupuncture robots, haptic feedback, intelligent sensing, and interactive control for medical robotic systems. He has led or participated in national and provincial research projects and has published 60+ papers with 20+ patents and software copyrights.
 <i class="fas fa-quote-right fa-2x fa-pull-right fa-border" aria-hidden="true"></i>
 </p>
 
 <ul class="quick-facts">
-  <li><i class="fas fa-university"></i> Assoc. Prof., Chengdu University of Traditional Chinese Medicine</li>
+  <li><i class="fas fa-university"></i> Associate Professor, Chengdu University of Traditional Chinese Medicine</li>
   <li><i class="fas fa-map-marker-alt"></i> Chengdu, Sichuan, China</li>
   <li><i class="fas fa-envelope"></i> zhanglinshuai@cdutcm.edu.cn</li>
   <li><i class="fas fa-phone"></i> 18086848801</li>
@@ -298,7 +298,7 @@ Linshuai Zhang is an Assoc. Prof. and Master's Supervisor at Chengdu University 
   <div class="logo-text">
     <h3><em>Chengdu University of Traditional Chinese Medicine</em><span>2022.12 - Present</span></h3>
     <ul>
-      <li><strong>Distinguished Assoc. Prof.</strong></li>
+      <li><strong>Distinguished Associate Professor</strong></li>
       <li>Chengdu, China</li>
     </ul>
   </div>
