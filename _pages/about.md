@@ -31,8 +31,8 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 # <i class="fas fa-rss"></i> News
 
 <ul class="news-box">
-  <li><span class="news-date">[2026]</span>: <span class="news-mark">🎉</span> Dr. Zhang served as a Program Committee Member for the <em>IEEE International Conference on Mechatronics and Automation</em> (IEEE ICMA 2026).</li>
-  <li><span class="news-date">[2026]</span>: <span class="news-mark">🎉</span> Dr. Zhang was invited to serve as a Guest Editor for a Research Topic in <em>Frontiers in Robotics and AI</em>.</li>
+  <li><span class="news-date">[2026.04]</span>: <span class="news-mark">🎉</span> Dr. Zhang served as a Program Committee Member for the <em>IEEE International Conference on Mechatronics and Automation</em> (IEEE ICMA 2026).</li>
+  <li><span class="news-date">[2026.05]</span>: <span class="news-mark">🎉</span> Dr. Zhang was invited to serve as a Guest Editor for a Research Topic in <em>Frontiers in Robotics and AI</em>.</li>
   <li><span class="news-date">[2025.12]</span>: <span class="news-mark">🎉</span> The journal paper <span class="paper-title">An innovative master haptic interface employing magnetorheological fluids for endovascular catheterization</span> was published in <em>Sensors</em>.</li>
   <li><span class="news-date">[2025.08]</span>: <span class="news-mark">🎉</span> Dr. Zhang started the PI project <span class="paper-title">Key technologies and application demonstration of intelligent moxibustion physiotherapy robots for industrialization</span>.</li>
   <li><span class="news-date">[2025.07]</span>: <span class="news-mark">🎉</span> The journal paper <span class="paper-title">Development and efficacy assessment of an angle sensor-integrated upper limb exoskeleton system for autonomous rehabilitation training</span> was published in <em>Sensors</em>.</li>
