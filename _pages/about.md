@@ -120,7 +120,6 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
   <li><span class="paper-title">Intelligent vehicle technologies based on special sensing systems</span>, national science and technology program, key participant, 2021.</li>
   <li><span class="paper-title">Intelligent vehicle technologies based on special sensing systems</span>, national science and technology program, key participant, 2020.</li>
   <li><span class="paper-title">Special test bench system for high-altitude engine thrust measurement</span>, industry-sponsored project, key participant, 2022.</li>
-  <li><span class="paper-title">High-end real-time cardiovascular and cerebrovascular interventional assistance robotic system</span>, National High Technology Research and Development Program of China, 2015-2020.</li>
 </ul>
 
 <span class="anchor" id="publications"></span>
