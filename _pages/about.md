@@ -32,6 +32,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 
 <ul class="news-box">
   <li><span class="news-date">[2026.05]</span>: <span class="news-mark">🎉</span> Assoc. Prof. Zhang was invited to serve as a Guest Editor for a Research Topic in <em>Frontiers in Robotics and AI</em>.</li>
+  <li><span class="news-date">[2026.04]</span>: <span class="news-mark">🎉</span> Assoc. Prof. Zhang started the PI project <span class="paper-title">Research on a multimodal-fusion-based precision perception system for acupuncture robot needling states</span> under the Sichuan “Haiju Plan.”</li>
   <li><span class="news-date">[2026.04]</span>: <span class="news-mark">🎉</span> Assoc. Prof. Zhang served as a Program Committee Member for the <em>IEEE International Conference on Mechatronics and Automation</em> (IEEE ICMA 2026).</li>
   <li><span class="news-date">[2025.12]</span>: <span class="news-mark">🎉</span> The journal paper <span class="paper-title">An innovative master haptic interface employing magnetorheological fluids for endovascular catheterization</span> was published in <em>Sensors</em>.</li>
   <li><span class="news-date">[2025.08]</span>: <span class="news-mark">🎉</span> Assoc. Prof. Zhang started the PI project <span class="paper-title">Key technologies and application demonstration of intelligent moxibustion physiotherapy robots for industrialization</span>.</li>
@@ -102,6 +103,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 ### Principal Investigator
 
 <ul class="compact-list">
+  <li><span class="paper-title">Research on a multimodal-fusion-based precision perception system for acupuncture robot needling states</span>, Sichuan “Haiju Plan” Project, Grant No. 2026JDHJ0064, 2026-2027.</li>
   <li><span class="paper-title">Key technologies and application demonstration of intelligent moxibustion physiotherapy robots for industrialization</span>, Sichuan Administration of Traditional Chinese Medicine, 2025-2027.</li>
   <li><span class="paper-title">Dynamic precise force control of a new distal ablation catheter structure based on soft actuation and sensing</span>, National Natural Science Foundation of China Youth Program, 2023-2025.</li>
   <li><span class="paper-title">Compliant contact interaction control of a distal ablation catheter for interventional robots in dynamic cardiac chambers</span>, Sichuan Science and Technology Program, 2023-2024.</li>
