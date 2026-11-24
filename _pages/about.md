@@ -22,7 +22,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
   <li><i class="fas fa-university"></i> Associate Professor, Chengdu University of Traditional Chinese Medicine</li>
   <li><i class="fas fa-map-marker-alt"></i> Chengdu, Sichuan, China</li>
   <li><i class="fas fa-envelope"></i> zhanglinshuai@cdutcm.edu.cn</li>
-  <li><i class="fas fa-phone"></i> 18086848801</li>
+  <li><i class="fas fa-phone"></i> +86 18086848801</li>
   <li><i class="fas fa-file-alt"></i> 60+ publications, 20+ patents/software copyrights, and multiple funded projects</li>
 </ul>
 
@@ -31,6 +31,7 @@ Linshuai Zhang is an Associate Professor and Master's Supervisor at Chengdu Univ
 # <i class="fas fa-rss"></i> News
 
 <ul class="news-box">
+  <li><span class="news-date">[2026.11]</span>: <span class="news-mark">🎉</span> Assoc. Prof. Zhang was elevated to the grade of IEEE Senior Member.</li>
   <li><span class="news-date">[2026.05]</span>: <span class="news-mark">🎉</span> Assoc. Prof. Zhang was invited to serve as a Guest Editor for a Research Topic in <em>Frontiers in Robotics and AI</em>.</li>
   <li><span class="news-date">[2026.04]</span>: <span class="news-mark">🎉</span> Assoc. Prof. Zhang started the PI project <span class="paper-title">Research on a multimodal-fusion-based precision perception system for acupuncture robot needling states</span> under the Sichuan “Haiju Plan.”</li>
   <li><span class="news-date">[2026.04]</span>: <span class="news-mark">🎉</span> Assoc. Prof. Zhang served as a Program Committee Member for the <em>IEEE International Conference on Mechatronics and Automation</em> (IEEE ICMA 2026).</li>
