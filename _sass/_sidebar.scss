@@ -308,6 +308,25 @@ div.author__avatar {
   }
 }
 
+.author__email {
+  a {
+    display: flex;
+    align-items: center;
+    gap: 0.15em;
+    padding-right: 0;
+    white-space: nowrap;
+  }
+
+  i {
+    flex: 0 0 auto;
+  }
+
+  span {
+    font-size: 0.78em;
+    white-space: nowrap;
+  }
+}
+
 .author__urls_sm{
   padding: .25em;
   font-size: 1.75em;
